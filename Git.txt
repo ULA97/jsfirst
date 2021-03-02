@@ -1,0 +1,7 @@
+1. git init
+2. Прописываем свое имя и мейл git config --local user.name "Alex" задаем конифг
+git config --local user.email AAArdyshev@yandex.ru
+
+3.git status позволяет посмотреть что на текущий момент отслеживает гит и какие есть точки отсчета (комиты)
+4.git add -A позволяет все файлы , которые есть в репозитории добавить в индекс (то зачем следим)
+5.git commit -a -m"first commit" комитим делаем точку отсчета 

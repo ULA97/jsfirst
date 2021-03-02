@@ -5,3 +5,9 @@ git config --local user.email AAArdyshev@yandex.ru
 3.git status позволяет посмотреть что на текущий момент отслеживает гит и какие есть точки отсчета (комиты)
 4.git add -A позволяет все файлы , которые есть в репозитории добавить в индекс (то зачем следим)
 5.git commit -a -m"first commit" комитим делаем точку отсчета 
+6. git chekout можно вернуть все изменения
+7. git log позволяет посмотреть все комиты
+8. git remote add origin https://github.com/ULA97/jsfirst.git связываем локальный репозиторий с удаленным
+9. git branch -M main
+10. push -u origin main 
+11. push -u origin master (или такую)

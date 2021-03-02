@@ -11,3 +11,9 @@ git config --local user.email AAArdyshev@yandex.ru
 9. git branch -M main
 10. push -u origin main 
 11. push -u origin master (или такую)
+12. следующие разы просто git push
+
+1. git clone https://github.com/ULA97/jsfirst.git project_2 клонируем чтобы с другого компа
+2.git pull заберет все что ты изменил, если открывал еще где то свою репу
+
+wq! когда слияние 

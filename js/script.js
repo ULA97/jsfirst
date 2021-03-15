@@ -137,4 +137,58 @@ if (personalMovieDB.count < 10) {
 
 console.log(personalMovieDB);
 
+/* let num = 20;
 
+function showFirstMessage(text) {
+    console.log(text);
+    num = 20;
+}
+
+showFirstMessage("Hello world");
+console.log(num); */
+
+/* function calc (a, b) {
+    return (a + b);
+}
+
+console.log(calc(1923, 493943)); */
+/* 
+function ret() {
+    let num = 50;
+    return num;
+}
+
+const anotherNum = ret();
+console.log(anotherNum); */
+
+/* const logger = function() {
+
+}; */
+
+/* const str = "test"; */
+/* const arr = [1,3,5]; */
+
+/* console.log(str[2]); */
+
+/* console.log(str.toUpperCase()); делает все большими буквами */
+/* console.log(str); */
+
+/* const fruit = "Some fruit"; */
+/* console.log(fruit.indexOf('fruit')); вычисляет какой по очереди является элемент */
+
+/* const logg = "hello world"; */
+
+/* console.log(logg.slice(6, 11)) */;
+
+/* console.log(logg.substring(6, 11)); */
+
+/* console.log(logg.substr(6, 5)); */
+
+/* const num2 =12.2; */
+
+/* console.log(Math.round(num2)); Округляет число */
+
+/* const test = "12.2px"; */
+/* console.log(parseInt(test)); переводит строку в число и округляет его */
+
+/* console.log(parseFloat(test)); переводит строку в число без округления дает так как есть */
